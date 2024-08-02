@@ -1,0 +1,2 @@
+# bosan3
+TESTNET PANJANG 3
